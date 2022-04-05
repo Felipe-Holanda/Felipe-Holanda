@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe! 👋🇧🇷
 
 ```
-Programador FullStack, acadêmico de Ciências da Computação pela Federal do Maranhão.
+Acadêmico de Ciências da Computação pela Federal do Maranhão.
 Certificado como Desenvolvedor de Aplicativos para mídia Social pelo IFTO..
 Especializado em front-end e atualmente se aperfeiçoando em back-end.
 
