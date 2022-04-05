@@ -32,9 +32,7 @@ Novato na Kenzie Academy.
 
 ## Softwares que utilizo
 <div style="display: inline_block">
-  <a href="https://www.notion.so/"><img align="center" alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/><a/>
-  <a href="https://www.postman.com/"><img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><a/>
   <a href="https://git-scm.com/"><img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/><a/>
     
-Construido com 💙 por <b>Felipe Holanda</b>
+Made with 💙 by <b>Felipe Holanda</b>
