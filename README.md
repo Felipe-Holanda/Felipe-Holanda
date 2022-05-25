@@ -2,8 +2,8 @@
 
 ```
 Acadêmico de Ciências da Computação pela Federal do Maranhão.
-Certificado como Desenvolvedor de Aplicativos para mídia Social pelo IFTO..
-Especializado em front-end e atualmente se aperfeiçoando em back-end.
+Certificado como Desenvolvedor de Aplicativos pelo IFTO
+Poliglota (Português Brasileiro, Inglês, Francês e Alemão).
 
 Novato na Kenzie Academy.
 ```
@@ -23,9 +23,12 @@ Novato na Kenzie Academy.
 
 ## Tecnologias que possuo conhecimento
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-310d63?style=for-the-badge&logo=PHP&logoColor=white"/>
+  
   
 
 </div><br/>
