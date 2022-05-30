@@ -41,5 +41,5 @@ Novato na Kenzie Academy.
      <a href="https://www.adobe.com/br/products/xd.html"><img align="center" alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-purple?style=for-the-badge&logo=adobexd&logoColor=white"/><a/>
        <a href="https://copilot.github.com/"><img align="center" alt="github copilot" src="https://img.shields.io/badge/github%20copilot-262626?style=for-the-badge&logo=github&logoColor=white"/><a/>
 </div>
-    
+    <br><hr>
 Made with 💙 by <b>Felipe Holanda</b>
