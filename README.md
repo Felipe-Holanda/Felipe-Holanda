@@ -2,7 +2,7 @@
 
 ```
 Acadêmico de Ciências da Computação pela Federal do Maranhão.
-Certificado como Desenvolvedor de Aplicativos pelo IFTO
+Certificado como Desenvolvedor para Mídias Sociais pelo IFTO
 Poliglota (Português Brasileiro, Inglês, Francês e Alemão).
 
 Novato na Kenzie Academy.
