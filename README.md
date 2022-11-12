@@ -27,8 +27,9 @@ Novato na Kenzie Academy.
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1582BA?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-310d63?style=for-the-badge&logo=PHP&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/>
   
   
 
@@ -40,6 +41,7 @@ Novato na Kenzie Academy.
    <a href="https://code.visualstudio.com/"><img align="center" alt="vscode" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudio&logoColor=white"/><a/>
      <a href="https://www.adobe.com/br/products/xd.html"><img align="center" alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-purple?style=for-the-badge&logo=adobexd&logoColor=white"/><a/>
        <a href="https://copilot.github.com/"><img align="center" alt="github copilot" src="https://img.shields.io/badge/github%20copilot-262626?style=for-the-badge&logo=github&logoColor=white"/><a/>
+         <a href="https://figma.com/"><img align="center" alt="github copilot" src="https://img.shields.io/badge/Figma-262626?style=for-the-badge&logo=figma&logoColor=white"/><a/>
 </div>
     <br><hr>
 Made with 💙 by <b>Felipe Holanda</b>
