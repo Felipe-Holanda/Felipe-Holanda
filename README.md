@@ -5,7 +5,7 @@ Acadêmico de Ciências da Computação pela Federal do Maranhão.
 Certificado como Desenvolvedor para Mídias Sociais pelo IFTO
 Poliglota (Português Brasileiro, Inglês, Francês e Alemão).
 
-Novato na Kenzie Academy.
+#KenzieMade.
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.nether/)
